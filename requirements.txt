@@ -3,3 +3,4 @@ nltk
 notebook
 numpy
 scipy
+mecab
