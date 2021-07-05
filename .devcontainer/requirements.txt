@@ -3,4 +3,4 @@ nltk
 notebook
 numpy
 scipy
-mecab
+janome
